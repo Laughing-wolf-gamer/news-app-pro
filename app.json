@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "News Short Pro",
+    "slug": "inshort-clone",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/news.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.blackguard99.newshort_pro"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "46721f2e-6fb9-45a8-96fa-ec6e5aac1dbc"
+      }
+    }
+  }
+}
